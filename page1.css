@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  div {
+    border: 2px solid blue;
+    margin: 10px;
+     
+    padding: 5px;
+  }
+  .container {
+    border: 1px white;
+    width: 100vw;
+    min-height: 100vw;
+  
+  }
+  .header {
+    border: 1px pink;
+    color: aquamarine;
+  }
+  .heading {
+    text-align: center;
+  }
+  .image {
+    border: 1px whitesmoke;
+    height: 400px;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-image: url("/bg1.jpg");
+    background-size: 1150px;
+    background-position:center;
+  }
+  .mid1 ul li{
+    height: 60%;
+    width: 50%;
+    padding:3em;
+    color:bisque;
+
+
+  }
+  .mid2 {
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+
+
+  }
+  .mid3 {
+    background-image: -moz-element();
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+
+
+  }
+  .midclass {
+    display: flex;
+    color: aquamarine;
+    
+  }
+  
+  .image ul{
+    display: flex;
+  }
+  .image ul li{
+    list-style:none;
+    padding: 1cm;
+    
+    font-weight: bold,inherit;
+  }
+  .header{
+    font-size: 1.5cm;
+  }
+  .image ul li:hover{
+    background-color:white;
+    color: red;
+    border:2px solid red;
+    box-shadow:  0px 3px 9px green;
+  }
+  p{
+    text-align: center;
+    text-indent: 10px;
+    line-height: 2em;
+    letter-spacing: 3px;
+    font-family: cursive;
+  }
+  
+  .first-letter{
+    font-size:3em;
+   letter-spacing:0em;
+    color:green;
+    text-decoration: none;
+  }
+  .space ul li{
+    color: blueviolet;
+    
+  }
+  .mid2 ul li{
+    
+    color: blueviolet;
+  }
+  .mid3 {
+   
+ height:33vh;
+ background-image:url(/online-transactions-businessman-touching-fingerprint-scan-provides-security-interface-payment-shopping-banking-an[208].jpg); 
+ background-repeat: no-repeat;
+ color:aquamarine;
+}
+.mid3 p{
+    
+    color:blueviolet;
+}
+.mid3{
+    text-align: center;
+    height: 27em; 
+}
+.mid1 ul li:hover{
+  background-color:snow;
+  color: red;
+  border:2px solid red;
+  box-shadow:  0px 3px 9px green;
+}
