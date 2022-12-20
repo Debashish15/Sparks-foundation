@@ -27,7 +27,7 @@
     height: 400px;
     width: 1200px;
     background-repeat: no-repeat;
-    background-image: url("/bg1.jpg");
+    background-image: url("bg1.jpg");
     background-size: 1150px;
     background-position:center;
   }
@@ -103,7 +103,7 @@
   .mid3 {
    
  height:33vh;
- background-image:url(/online-transactions-businessman-touching-fingerprint-scan-provides-security-interface-payment-shopping-banking-an[208].jpg); 
+ background-image:url(online-transactions-businessman-touching-fingerprint-scan-provides-security-interface-payment-shopping-banking-an[208].jpg); 
  background-repeat: no-repeat;
  color:aquamarine;
 }
